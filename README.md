@@ -29,3 +29,6 @@ Commerce student by day and android developer by night, I start my day with a cu
 # wanna know me more?
 - [Telegram](https://t.me/neel0210)
 - [Instagram](https://www.instagram.com/neel_0210/?hl=en)
+
+### Spying?
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel021000.neel021000)
