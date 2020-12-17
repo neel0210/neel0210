@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Neel" src="https://raw.githubusercontent.com/neel021000/neel021000/main/neel/goku.png"/>
+<img align="left" width="150" height="150" alt="Neel" src="https://raw.githubusercontent.com/neel021000/neel021000/main/neel/prish.gif"/>
 
 ### I'm Neel
 
@@ -16,5 +16,3 @@ Commerce student by day and android developer by night, I start my day with a cu
 # wanna know me more?
 - [Telegram](https://t.me/neel0210)
 - [Instagram](https://www.instagram.com/neel_0210/?hl=en)
-
-
