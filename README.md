@@ -7,7 +7,11 @@ Commerce student by day and android developer by night, I start my day with a cu
 #
 # 
 # My github stats!
-<a href="https://www.adamalston.com/"><img height="190.9px" src="https://github-readme-stats.vercel.app/api?username=neel021000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<p align="left" >  
+  <a href="https://github.com/neel021000/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=neel021000&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
 
 # My work :)
 - [Exynos7870](https://forum.xda-developers.com/t/rom-10-treble-oneui-2-0-prish-os-j6q-port.4137667/)
