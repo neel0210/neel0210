@@ -5,8 +5,9 @@
 Commerce student by day and android developer by night, I start my day with a cup of cardamom tea and few crunchy bytes and sometimes it ends up being killed in battle ground :(
 
 #
-# My github stats
-![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neel021000&show_icons=true)<img align="left"/>
+# 
+# My github stats!
+<a href="https://www.adamalston.com/"><img height="190.9px" src="https://github-readme-stats.vercel.app/api?username=neel021000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 # My work :)
 - [Exynos7870](https://forum.xda-developers.com/t/rom-10-treble-oneui-2-0-prish-os-j6q-port.4137667/)
