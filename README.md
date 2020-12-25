@@ -12,6 +12,11 @@ Commerce student by day and android developer by night, I start my day with a cu
 <img  src="https://github-readme-stats.vercel.app/api?username=neel021000&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  
+# My Used Languages!
+<p align="left" >   
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel021000&&show_icons=true&theme=radical"/>
+  </p>
 
 # My work :)
 
