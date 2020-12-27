@@ -2,7 +2,7 @@
 
 ### I'm Neel
 
-Commerce student by day and android developer by night, I start my day with a cup of cardamom tea and few crunchy bytes and sometimes it ends up being killed in battle ground :(
+Commerce student by day and android developer by night :)
 
 #
 # 
