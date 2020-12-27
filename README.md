@@ -28,8 +28,11 @@ Commerce student by day and android developer by night :)
 - [PrishKernels](https://github.com/orgs/PrishKernel/dashboard) 
 
 ### MODs
-- [Debloater](https://github.com/neel021000/debloater)
-- [Camera-MOD](https://github.com/neel021000/PRISH_CAMERA_MOD) 
+- [MODs](https://github.com/neel021000/MODS) 
+
+### TBS in MODS
+- [Debloater](https://github.com/neel021000/MODS/tree/debloater)
+- [Singletake](https://github.com/neel021000/MODS/tree/singletake)
 
 # wanna know me more?
 - [Telegram](https://t.me/neel0210)
