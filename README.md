@@ -36,6 +36,7 @@ Commerce student by day and android developer by night :)
 ### TBS in MODS
 - [Debloater](https://github.com/neel021000/MODS/tree/debloater)
 - [Singletake](https://github.com/neel021000/MODS/tree/singletake)
+- [Linux script](https://github.com/neel021000/MODS/tree/linux)
 
 # wanna know me more?
 - [Telegram](https://t.me/neel0210)
