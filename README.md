@@ -28,7 +28,10 @@ Commerce student by day and android developer by night :)
 - [PrishKernels](https://github.com/orgs/PrishKernel/dashboard) 
 
 ### MODs
-- [MODs](https://github.com/neel021000/MODS) 
+- [MODs](https://github.com/neel021000/MODS)
+
+### Auto scripts
+- [Auto-scripts](https://github.com/neel021000/android_manifest_samsung)
 
 ### TBS in MODS
 - [Debloater](https://github.com/neel021000/MODS/tree/debloater)
