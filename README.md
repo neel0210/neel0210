@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Neel" src="https://raw.githubusercontent.com/neel021000/neel021000/main/neel/prish.gif"/>
+<img align="left" width="150" height="150" alt="Neel" src="https://raw.githubusercontent.com/neel0210/neel0210/main/neel/prish.gif"/>
 
 ### I'm Neel
 
@@ -8,14 +8,14 @@ Commerce student by day and android developer by night :)
 # 
 # My github stats!
 <p align="left" >  
-  <a href="https://github.com/neel021000/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=neel021000&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/neel0210/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=neel0210&&show_icons=true&theme=radical"/>
   </a>
   </p>
   
 # My Used Languages!
 <p align="left" >   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel021000&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=radical"/>
   </p>
 
 # My work :)
@@ -28,19 +28,19 @@ Commerce student by day and android developer by night :)
 - [PrishKernels](https://github.com/orgs/PrishKernel/dashboard) 
 
 ### MODs
-- [MODs](https://github.com/neel021000/MODS)
+- [MODs](https://github.com/neel0210/MODS)
 
 ### Auto scripts
-- [Auto-scripts](https://github.com/neel021000/android_manifest_samsung)
+- [Auto-scripts](https://github.com/neel0210/android_manifest_samsung)
 
 ### TBS in MODS
-- [Debloater](https://github.com/neel021000/MODS/tree/debloater)
-- [Singletake](https://github.com/neel021000/MODS/tree/singletake)
-- [Linux script](https://github.com/neel021000/MODS/tree/linux)
+- [Debloater](https://github.com/neel0210/MODS/tree/debloater)
+- [Singletake](https://github.com/neel0210/MODS/tree/singletake)
+- [Linux script](https://github.com/neel0210/MODS/tree/linux)
 
 # wanna know me more?
 - [Telegram](https://t.me/neel0210)
 - [Instagram](https://www.instagram.com/neel_0210/?hl=en)
 
 ### Spying?
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel021000.neel021000)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel0210.neel0210)
