@@ -39,8 +39,10 @@ Commerce student by day and android developer by night :)
 - [Linux script](https://github.com/neel0210/MODS/tree/linux)
 
 # wanna know me more?
-- [Telegram](https://t.me/neel0210)
-- [Instagram](https://www.instagram.com/neel_0210/?hl=en)
+[![Instagram badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=Instagram)](https://www.Instagram.com/neel_0210)
+[![telegram badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=telegram)](https://telegram.me/neel0210)
+[![twitter badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=twitter)](https://twitter.com/neel_0210)
+[![snapchat badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=snapchat)](https://snapchat.com/neel0210)
 
 ### Spying?
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel0210.neel0210)
