@@ -1,8 +1,6 @@
-<img align="left" width="150" height="150" alt="Neel" src="https://raw.githubusercontent.com/neel0210/neel0210/main/neel/prish.gif"/>
+# I'm Neel
 
-### I'm Neel
-
-Commerce student by day and android developer by night :)
+### Commerce student by day and android developer by night :)
 
 #
 # 
@@ -25,7 +23,7 @@ Commerce student by day and android developer by night :)
 - [Exynos9611/M30s](https://forum.xda-developers.com/t/rom-10-oneui-2-stable-prish-os-a50s-port.4159663/)
 
 ### Kernels
-- [PrishKernels](https://github.com/orgs/PrishKernel/dashboard) 
+- [Kernels](https://github.com/orgs/PrishKernel/dashboard) 
 
 ### MODs
 - [MODs](https://github.com/neel0210/MODS)
