@@ -1,9 +1,7 @@
 # I'm Neel
 
 ### Commerce student by day and android developer by night :)
-
-#
-# 
+ 
 # My github stats!
 <p align="left" >  
   <a href="https://github.com/neel0210/github-readme-stats"> 
