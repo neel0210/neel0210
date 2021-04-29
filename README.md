@@ -1,13 +1,11 @@
 ## Neel: Commerce student by day and android developer by night :)
 
-# My github stats!
 <p align="left" >  
   <a href="https://github.com/neel0210/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=neel0210&&show_icons=true&theme=radical"/>
   </a>
   </p>
   
-# My Used Languages!
 <p align="left" >   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=radical"/>
   </p>
