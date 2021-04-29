@@ -1,4 +1,4 @@
-## I'm Neel: Commerce student by day and android developer by night :)
+## Neel: Commerce student by day and android developer by night :)
 
 # My github stats!
 <p align="left" >  
