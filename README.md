@@ -10,6 +10,8 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=radical"/>
   </p>
 
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=neel0210&theme=dark)
+
 # My work :)
 
 ### ROMs
