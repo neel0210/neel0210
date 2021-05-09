@@ -42,4 +42,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel0210.neel0210)
 
 ### Listening
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0iv74k3ruudlt2x4a8vww93ut&cover_image=true&theme=default)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0iv74k3ruudlt2x4a8vww93ut&cover_image=true&theme=novatorem)
