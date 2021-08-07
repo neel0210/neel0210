@@ -1,4 +1,4 @@
-## Neel: Commerce student by day and android developer by night :)
+## Commerce student by day and android developer by night :)
 
 <p align="left" >  
   <a href="https://github.com/neel0210/github-readme-stats"> 
