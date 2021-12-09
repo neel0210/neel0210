@@ -37,6 +37,7 @@
 [![telegram badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=telegram)](https://telegram.me/neel0210)
 [![twitter badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=twitter)](https://twitter.com/neel_0210)
 [![snapchat badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=snapchat)](https://snapchat.com/neel0210)
+[![xda-developers badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=xda-developers)](https://forum.xda-developers.com/m/neel0210.9821139/)
 
 ### Spying?
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel0210.neel0210)
