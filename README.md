@@ -1,16 +1,12 @@
-## Commerce student by day and android developer by night :)
+<img align="left" src='https://raw.githubusercontent.com/neel0210/neel0210/main/neel/github.gif' width='200'/>
 
-<p align="left" >  
-  <a href="https://github.com/neel0210/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=neel0210&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-  
-<p align="left" >   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=radical"/>
-  </p>
+<h1 align="center">Hey! Neel here</h1>
 
-![stat](https://github-readme-streak-stats.herokuapp.com/?user=neel0210&theme=dark)
+- 🌞 Student by day 
+
+- 🌙💻 An android developer by night
+
+- 📫 Neel's cosmos **https://neel0210.github.io/**
 
 # My work :)
 
@@ -31,6 +27,19 @@
 - [Debloater](https://github.com/neel0210/MODS/tree/debloater)
 - [Singletake](https://github.com/neel0210/MODS/tree/singletake)
 - [Linux script](https://github.com/neel0210/MODS/tree/linux)
+##
+<p align="left" >  
+  <a href="https://github.com/neel0210/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=neel0210&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+  
+<p align="left" >   
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=radical"/>
+  </p>
+
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=neel0210&theme=dark)
+
 
 # wanna know me more?
 [![Instagram badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=Instagram)](https://www.Instagram.com/neel_0210)
