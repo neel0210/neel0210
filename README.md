@@ -41,7 +41,7 @@
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=neel0210&theme=dark)
 
 
-# wanna know me more?
+# Wanna know me more?
 [![Instagram badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=Instagram)](https://www.Instagram.com/neel_0210)
 [![telegram badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=telegram)](https://telegram.me/neel0210)
 [![twitter badge](https://img.shields.io/badge/neel0210-30302f?style=flat&logo=twitter)](https://twitter.com/neel_0210)
@@ -51,5 +51,5 @@
 ### Spying?
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neel0210.neel0210)
 
-### Listening
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0iv74k3ruudlt2x4a8vww93ut&cover_image=true&theme=novatorem)
+### Github Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
