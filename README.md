@@ -2,10 +2,6 @@
 
 <h1 align="center">Hey! Neel here</h1>
 
-- 🌞 Student by day 
-
-- 🌙💻 An android developer by night
-
 - 📫 Neel's cosmos **https://neel0210.github.io/**
 
 # My work :)
